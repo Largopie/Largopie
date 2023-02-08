@@ -7,15 +7,17 @@
 <h5 align="center"> LEAST </h5>
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=black"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black">
-</p> <br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=largopie&langs_count=8)](https://github.com/largopie/github-readme-stats)
+</p> <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Largopie&langs_count=8)](https://github.com/Largopie/github-readme-stats)
+
 <br> 
   
 ![Largopie's GitHub stats](https://github-readme-stats.vercel.app/api?username=largopie&show_icons=true&theme=radical)
 
 <h3 align="center"> CONTACT </h3>
 <p align="center">
-<a href="https://www.instagram.com/jae_xeok/" target="_blank"><img src="https://img.shields.io/badge/jae_xeok-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:kis9732@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kis9732@gamil.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://www.instagram.com/jae_xeok/" target="_blank"><img src="https://img.shields.io/badge/jae__xeok-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:kis9732@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kis9732@gamil.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
 </a>
 
