@@ -1,4 +1,7 @@
 <div align="center">
+ <h3>노션 이력서</h3>
+ <a href="https://grey-cymbal-d1f.notion.site/Song-Jae-Seok-6a0bebc7067b40f4bea3a4bd67122631" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=#000000"/></a>
+
 <h3 align="center"> TECH STACK </h3>
 <h5 align="center"> MAIN </h5>
 <p align="center">
