@@ -25,5 +25,5 @@
 <a href="https://www.instagram.com/jae_xeok/" target="_blank"><img src="https://img.shields.io/badge/jae__xeok-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:kis9732@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kis9732@gamil.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
 </a>
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flargopie&count_bg=%232EEDFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
