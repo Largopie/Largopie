@@ -1,4 +1,5 @@
 <div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JaeSeok%20Song&desc=Software%20Engineer&descAlignY=57&animation=twinkling&fontAlignY=35" />
  <h3>노션 이력서</h3>
  <a href="https://grey-cymbal-d1f.notion.site/Song-Jae-Seok-6a0bebc7067b40f4bea3a4bd67122631" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=#000000"/></a>
 
