@@ -1,7 +1,7 @@
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JaeSeok%20Song&desc=Software%20Engineer&descAlignY=57&animation=twinkling&fontAlignY=35" />
  <h3>노션 이력서</h3>
- <a href="https://grey-cymbal-d1f.notion.site/Song-Jae-Seok-6a0bebc7067b40f4bea3a4bd67122631" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=#000000"/></a>
+ <a href="https://grey-cymbal-d1f.notion.site/0a19dcfabc1f446188d445fd545decbc?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=#000000"/></a>
 
  <h3>기술 블로그</h3>
  <a href="https://velog.io/@largopie" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=ffffff"/></a>
