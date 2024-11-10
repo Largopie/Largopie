@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JaeSeok%20Song&desc=Software%20Engineer&descAlignY=57&animation=twinkling&fontAlignY=35" />
 
+  <h3>문제 해결에 관심이 많습니다.</h3>
+  <p>불편함을 문제를 해결하기 위해 노력합니다. 사소한 문제라도 인식하고 해결하는 과정을 <a href="https://grey-cymbal-d1f.notion.site/13a39a97cc4a808ab7f2fffa7036bf16?v=477f76d2e2d249fdac86e9bccfad4584">Notion</a>에 기록합니다.</p>
+  
   <h3>기술 블로그</h3>
   <a href="https://velog.io/@largopie" target="_blank">
     <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=ffffff" />
